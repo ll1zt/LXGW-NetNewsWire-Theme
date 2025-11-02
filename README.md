@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">MiaoYan · NetNewsWire Theme</h1>
-  <p align="center">A clean and elegant NetNewsWire theme optimized for Chinese reading.</p>
   <p align="center">
     <a href="https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases"><img src="https://img.shields.io/github/v/release/tw93/MiaoYan-NetNewsWire-Theme?display_name=tag&logo=github" alt="release"/></a>
     <a href="https://github.com/tw93/MiaoYan-NetNewsWire-Theme/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"/></a>
@@ -10,6 +9,8 @@
 <p align="center">
   <img src="https://cdn.tw93.fun/pic/DnMetl.png" alt="Screenshot" width="760"/>
 </p>
+
+<p align="center">A clean and elegant NetNewsWire theme optimized for Chinese reading.</p>
 
 
 ## Features
