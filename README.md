@@ -34,14 +34,11 @@
 - NetNewsWire 6.0+
 - macOS 11.0+ (also works on iOS/iPadOS)
 
-## Changelog
-- v1.0.0 Initial release: full light/dark, Chinese typography, circular avatars, clean layout
+## Support
+- If this theme improves your reading, consider starring the repo or sharing it with friends.
+- Have ideas or fixes? Open an issue or PR to help improve the theme.
+- Love cats? Treat Tangyuan and Cola via https://miaoyan.app/cats.html?name=MiaoYan
 
-## Author
-- Tw93 · https://tw93.fun · https://github.com/tw93
-
-## License
-MIT License
 
 ## Acknowledgments
 Thanks to the NetNewsWire team for an excellent RSS reader.
