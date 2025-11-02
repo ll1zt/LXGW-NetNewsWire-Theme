@@ -11,6 +11,7 @@
   <img src="https://cdn.tw93.fun/pic/DnMetl.png" alt="Screenshot" width="760"/>
 </p>
 
+
 ## Features
 
 - Minimal design focused on reading
@@ -21,7 +22,7 @@
 
 ## Installation
 
-- One‑click install: [Install this theme](netnewswire://theme/add?url=https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/latest/download/MiaoYan.nnwtheme.zip)
+- One‑click install: <a href="netnewswire://theme/add?url=https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/latest/download/MiaoYan.nnwtheme.zip">Install this theme</a>
 - Get NetNewsWire: <https://netnewswire.com/>
 
 ## Color Scheme
