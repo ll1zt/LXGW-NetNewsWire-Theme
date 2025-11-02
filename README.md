@@ -23,7 +23,7 @@
 
 ## Installation
 
-- One‑click install: <a href="netnewswire://theme/add?url=https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/latest/download/MiaoYan.nnwtheme.zip">Install this theme</a>
+- One‑click install: copy into your browser: `netnewswire://theme/add?url=https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases/latest/download/MiaoYan.nnwtheme.zip`
 - Get NetNewsWire: <https://netnewswire.com/>
 
 ## Color Scheme
