@@ -1,5 +1,11 @@
-/* Import web font as fallback if local font not available */
-@import url('https://gw.alipayobjects.com/os/k/jinkai/style.css');
+/* Local font definition */
+@font-face {
+	font-family: 'TsangerJinKai02';
+	src: url('TsangerJinKai02-W04.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
 
 body {
 	margin-left: auto;
