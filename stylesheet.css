@@ -1,7 +1,7 @@
 /* Local font definition */
 @font-face {
-	font-family: 'TsangerJinKai02';
-	src: url('TsangerJinKai02-W04.ttf') format('truetype');
+	font-family: 'LXGWWenKaiScreen';
+	src: url('LXGWWenKaiScreen.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -11,7 +11,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	/* Local font first, then web font, then system fallbacks */
-	font-family: "TsangerJinKai02", "苹方", "PingFang SC", "Microsoft YaHei", "微软雅黑", "Helvetica Neue", Arial, sans-serif !important;
+	font-family: "LXGWWenKaiScreen", "苹方", "PingFang SC", "Microsoft YaHei", "微软雅黑", "Helvetica Neue", Arial, sans-serif !important;
 	word-wrap: break-word;
 	max-width: 48em;
 	-webkit-font-smoothing: antialiased;

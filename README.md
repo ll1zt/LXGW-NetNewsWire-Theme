@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">MiaoYan · NetNewsWire Theme</h1>
+  <h1 align="center">LXGW WenKai · NetNewsWire Theme</h1>
   <p align="center">
     <a href="https://github.com/tw93/MiaoYan-NetNewsWire-Theme/releases"><img src="https://img.shields.io/github/v/release/tw93/MiaoYan-NetNewsWire-Theme?display_name=tag&logo=github" alt="release"/></a>
     <a href="https://github.com/tw93/MiaoYan-NetNewsWire-Theme/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="license"/></a>
@@ -33,7 +33,7 @@
 
 ## Fonts
 
-- Body: TsangerJinKai02 preferred, fallback to system (macOS: PingFang SC / Windows: Microsoft YaHei)
+- Body: LXGW WenKai Screen preferred, fallback to system (macOS: PingFang SC / Windows: Microsoft YaHei)
 - Code: SF Mono
 
 ## Compatibility

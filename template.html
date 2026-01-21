@@ -1,4 +1,3 @@
-
 <!-- Template Variables
 
 title: The title of the article
@@ -32,21 +31,22 @@ body: The body of the article.
 -->
 
 <header class="feedHeader">
-	<h1 class="articleTitle">
-		<a href="[[preferred_link]]" rel="noopener noreferrer" target="_blank">[[title]]</a>
-	</h1>
+  <h1 class="articleTitle">
+    <a href="[[preferred_link]]" rel="noopener noreferrer" target="_blank"
+      >[[title]]</a
+    >
+  </h1>
 
-	<div class="articleMeta">
-		<div class="feedLink">
-			<img src="[[avatar_src]]" class="feedAvatar" alt="" />
-			<a href="[[feed_link]]">[[feed_link_title]]</a>
-			<span class="separator">·</span>
-			<time datetime="[[datetime_short]]">[[datetime_short]]</time>
-		</div>
-	</div>
+  <div class="articleMeta">
+    <div class="feedLink">
+      <img src="[[avatar_src]]" class="feedAvatar" alt="" />
+      <a href="[[feed_link]]">[[feed_link_title]]</a>
+      <span class="separator">·</span>
+      <time datetime="[[datetime_short]]">[[datetime_short]]</time>
+    </div>
+  </div>
 </header>
 
 <article class="articleBody [[text_size_class]]">
-	<div id="bodyContainer">[[body]]</div>
+  <div id="bodyContainer">[[body]]</div>
 </article>
-
