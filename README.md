@@ -33,7 +33,7 @@
 
 ## Fonts
 
-- Body: LXGW WenKai Screen preferred, fallback to system (macOS: PingFang SC / Windows: Microsoft YaHei)
+- Body: LXGWBright-Light preferred, fallback to system (macOS: PingFang SC / Windows: Microsoft YaHei)
 - Code: SF Mono
 
 ## Compatibility
