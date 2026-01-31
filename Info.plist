@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Name</key>
-	<string>LXGW WenKai</string>
+	<string>LXGW WenKai Light</string>
 	<key>ThemeIdentifier</key>
-	<string>com.lllzt.themes.lxgw-wenkai</string>
+	<string>com.lllzt.themes.lxgw-wenkai-light</string>
 	<key>CreatorHomePage</key>
-	<string>https://tw93.fun/</string>
+	<string>https://lllzt.xx/</string>
 	<key>CreatorName</key>
-	<string>Tw93</string>
+	<string>lllzt</string>
 	<key>Version</key>
 	<integer>1</integer>
 </dict>
